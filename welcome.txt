@@ -1,2 +1,8 @@
 print("welcome")
 print("Fack do you do?")
+<!DOCTYPE>
+<HTML>
+<TITLE>
+</TITLE>
+<HEADER>
+</HEADER>
