@@ -1,2 +1,2 @@
 print("welcome")
-print("Whoo do you do?")
+print("Fack do you do?")
