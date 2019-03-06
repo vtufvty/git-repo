@@ -3,6 +3,9 @@ print("Fack do you do?")
 <!DOCTYPE>
 <HTML>
 <TITLE>
+<meta charset = utf-8>
 </TITLE>
 <HEADER>
+<img src ="logo.img" >
 </HEADER>
+</html>
