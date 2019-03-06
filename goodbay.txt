@@ -1,1 +1,6 @@
 print ("Goodbay")
+<!DOCTYPE>
+<html>
+<title>
+<meta charset = utf-8></title>
+</html>
