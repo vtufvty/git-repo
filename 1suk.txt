@@ -1,0 +1,6 @@
+<!doctype>
+<html>
+<title>
+</title>
+<h1>Первый сук</h1>
+</html>
