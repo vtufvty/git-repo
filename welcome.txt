@@ -8,4 +8,5 @@ print("Fack do you do?")
 <HEADER>
 <img src ="logo.img" >
 </HEADER>
+<div>просто блок</div>
 </html>
