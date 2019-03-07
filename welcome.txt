@@ -5,8 +5,15 @@ print("Fack do you do?")
 <TITLE>
 <meta charset = utf-8>
 </TITLE>
+<container>
 <HEADER>
 <img src ="logo.img" >
 </HEADER>
 <div>просто блок</div>
+<contant>
+</contant>
+<footer>
+</footer>
+</container>
 </html>
+
